@@ -1,1 +1,11 @@
 # pxa10467-web.github.io
+<!DOCTYPE html>
+<html>
+<head>
+  <title>私のホームページ</title>
+</head>
+<body>
+  <h1>こんにちは！</h1>
+  <p>これは私のホームページです。</p>
+</body>
+</html>
